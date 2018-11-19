@@ -15,8 +15,8 @@ This tutorial is based on a MATLAB exercise from [Prof. Todd Ehlers (University 
 ## Start working
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/introqg/notebooks/master?urlpath=lab)
-[![CSC Notebooks](https://img.shields.io/badge/launch-CSC%20notebook-blue.svg)](https://notebooks.csc.fi/#/blueprint/80cecffe7ad84d6d94665f39887b3a32)
+[![CSC Notebooks](https://img.shields.io/badge/launch-CSC%20notebook-blue.svg)](https://notebooks.csc.fi/#/blueprint/26d176ec660943bdbc6aa7f76bca3220)
 
-There are XXX problems for this week in a single notebook:
+There are 2 problems for this week in a single notebook:
 
- - [Problems 1-2: Hillslope diffusion (20 points)](Exercise-3-problems-1-2.ipynb)
+ - [Problems 1-2: River advection (20 points)](Exercise-4-problems-1-2.ipynb)
